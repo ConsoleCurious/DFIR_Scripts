@@ -1,7 +1,8 @@
-This repository will contains scripts that can aid with a plethora of specific DFIR workstreams. 
+#Purpose 
+This repository contains scripts that can aid with a plethora of specific DFIR workstreams. 
 
-Scripts in repo: 
+##Scripts in repo: 
 
-Windows_Binary_Copyright_Extractor.ps1: This PowerShell script recursively scans a specified directory to extract information about each .exe file, including the file name, file path, MD5 hash, and copyright information. The extracted information is then saved to a CSV file.
+**Windows_Binary_Copyright_Extractor.ps1**: This PowerShell script recursively scans a specified directory to extract information about each .exe file, including the file name, file path, MD5 hash, and copyright information. The extracted information is then saved to a CSV file.
 
 

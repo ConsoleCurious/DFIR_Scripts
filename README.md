@@ -1,5 +1,5 @@
 # Purpose
-This repository contains scripts that can aid with a plethora of specific DFIR workstreams. 
+This repository contains scripts that can aid with a plethora of DFIR specific workstreams. 
 
 ## Scripts in repo 
 
